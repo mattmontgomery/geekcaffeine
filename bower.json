@@ -1,0 +1,7 @@
+{
+  "name": "The Cult of Ned",
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "bootstrap-sass": "~3.0.2"
+  }
+}
